@@ -2,7 +2,7 @@
 
 [Video demonstration](https://www.youtube.com/watch?v=6nF87Q5vNZg)
 
-[![Project Demo](https://mariannebm.com/img/github/youtube-video-finalproject.jpg)]([youtube-video-lin](https://www.youtube.com/watch?v=6nF87Q5vNZg)k)
+[![Project Demo](https://mariannebm.com/img/github/youtube-video-finalproject.jpg)](https://www.youtube.com/watch?v=6nF87Q5vNZg)
 
 
 
