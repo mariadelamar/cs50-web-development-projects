@@ -1,9 +1,9 @@
 ## CS50 Final Project – Gran Canaria Attractions Web App
 
-[Video demonstration](https://www.youtube.com/watch?v=6nF87Q5vNZg)
 
 [![Project Demo](https://mariannebm.com/img/github/youtube-video-finalproject.jpg)](https://www.youtube.com/watch?v=6nF87Q5vNZg)
 
+Video demonstration
 
 
 
